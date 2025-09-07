@@ -13,7 +13,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Token bot của bạn (thay thế bằng token thực)
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "7374832893:AAExmqLWkOtuz0zXMNcueqtCWfzk8mT8P2k"
 
 # Múi giờ Việt Nam
 VIETNAM_TZ = pytz.timezone('Asia/Ho_Chi_Minh')
